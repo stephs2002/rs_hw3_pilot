@@ -1,0 +1,31 @@
+
+OLS Network Model
+
+Residuals:
+         0%         25%         50%         75%        100% 
+-0.15342411 -0.01210647 -0.01210647 -0.01210647  0.98789353 
+
+Coefficients:
+            Estimate   Pr(<=b) Pr(>=b) Pr(>=|b|)
+(intercept) 0.01210647 0.5800  0.4200  0.4200   
+x1          0.14131765 0.9972  0.0028  0.0028   
+
+Residual standard error: 0.1607 on 868 degrees of freedom
+Multiple R-squared: 0.03959 	Adjusted R-squared: 0.03848 
+F-statistic: 35.78 on 1 and 868 degrees of freedom, p-value: 3.229e-09 
+
+
+Test Diagnostics:
+
+	Null Hypothesis: qap 
+	Replications: 5000 
+	Coefficient Distribution Summary:
+
+       (intercept)       x1
+Min       -1.61614 -2.36477
+1stQ       1.34146 -1.31247
+Median     1.87388 -0.26517
+Mean       1.77861 -0.01839
+3rdQ       2.31603  0.93088
+Max        3.57581  8.76651
+

@@ -1,0 +1,31 @@
+query_name,spotify_id,spotify_name,match_score,genres,n_genres,popularity,followers,spotify_url,data_quality_note,genre_list,n_genres_clean
+Jane Remover,2rLGlNI6htigNxx172qxLu,Jane Remover,1.0,hyperpop; electroclash,2,61,259935,https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu,clear_match,"['hyperpop', 'electroclash']",2
+ear,3bABCGLkFvjnNIKHvPVHDG,ear,1.0,electroclash,1,52,60877,https://open.spotify.com/artist/3bABCGLkFvjnNIKHvPVHDG,manual_verified,['electroclash'],1
+Mk.gee,7tr9pbgNEKtG0GQTKe08Tz,Mk.gee,1.0,,0,61,519649,https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz,clear_match,[],0
+ML Buch,3NsSv8HchEwfa7bGkjb4ZC,ML Buch,1.0,,0,42,62421,https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC,clear_match,[],0
+Chanel Beads,3x11XrMEnyP18hv73pmKRL,Chanel Beads,1.0,lo-fi indie,1,49,63494,https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL,clear_match,['lo-fi indie'],1
+Sophia Stel,18w9tq3c2x11niEFNYqeex,Sophia Stel,1.0,,0,50,34147,https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex,clear_match,[],0
+Bassvictim,7f8ydynRRnrJBqWxevKLcM,Bassvictim,1.0,electroclash; hyperpop; witch house,3,57,131554,https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM,clear_match,"['electroclash', 'hyperpop', 'witch house']",3
+The Hellp,5DslL3PUa3BcRlCCEP64A4,The Hellp,1.0,electroclash; new rave; hyperpop,3,56,137377,https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4,clear_match,"['electroclash', 'new rave', 'hyperpop']",3
+the sound chalk makes,4uiFRdH1ESOicHwBuTbsY5,the sound chalk makes,1.0,hyperpop; electroclash,2,33,5821,https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5,clear_match,"['hyperpop', 'electroclash']",2
+Lucy Bedroque,2I8H267eH5va9da4vGt38O,Lucy Bedroque,1.0,hyperpop; rage rap; cloud rap,3,63,193075,https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O,clear_match,"['hyperpop', 'rage rap', 'cloud rap']",3
+Horse Vision,28gAkTGnjn8QZllb4EU4OM,Horse Vision,1.0,,0,35,9621,https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM,clear_match,[],0
+Mother Soki,08W3G3y83p0TLqqjiyKXBk,Mother Soki,1.0,,0,50,36723,https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk,clear_match,[],0
+bar italia,6tYmTHApvspl6KAgTfHjAY,bar italia,1.0,lo-fi indie,1,42,96608,https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY,clear_match,['lo-fi indie'],1
+daine,4lyCoxLN0aW7nJy5rec0tG,daine,1.0,hyperpop,1,46,38429,https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG,clear_match,['hyperpop'],1
+james K,25BObiRSDCMwVrBGIVaLIf,james K,1.0,,0,47,46283,https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf,clear_match,[],0
+underscores,7HfUJxeVTgrvhk0eWHFzV7,underscores,1.0,hyperpop,1,63,220019,https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7,clear_match,['hyperpop'],1
+Elias Rønnenfelt,1sMYEFib6APIW3JjkY8pYS,Elias Rønnenfelt,1.0,,0,54,37527,https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS,clear_match,[],0
+Bladee,2xvtxDNInKDV4AvGmjw6d1,Bladee,1.0,cloud rap; hyperpop,2,68,692266,https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1,clear_match,"['cloud rap', 'hyperpop']",2
+mark william lewis,2r5elgyPQ19vDG3xSQn39k,mark william lewis,1.0,,0,44,40569,https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k,clear_match,[],0
+Nourished by Time,7zNkqI6qRr0OJ4XO1Pw29g,Nourished by Time,1.0,indie electronic,1,46,66093,https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g,clear_match,['indie electronic'],1
+Alex G,6lcwlkAjBPSKnFBZjjZFJs,Alex G,1.0,,0,75,4093146,https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs,clear_match,[],0
+Oklou,6fFcUOFcbjeIuEomuUthkw,Oklou,1.0,art pop; hyperpop,2,61,300435,https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw,clear_match,"['art pop', 'hyperpop']",2
+Dean Blunt,5CFSYjc0PAiQvndFjafabk,Dean Blunt,1.0,,0,67,595714,https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk,clear_match,[],0
+King Krule,4wyNyxs74Ux8UIDopNjIai,King Krule,1.0,,0,60,1026903,https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai,clear_match,[],0
+A. G. Cook,335TWGWGFan4vaacJzSiU8,A. G. Cook,1.0,hyperpop,1,54,236059,https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8,clear_match,['hyperpop'],1
+Nation,03D2b6ATNCne8B3D251ncQ,Nation,1.0,electroclash; witch house,2,31,14561,https://open.spotify.com/artist/03D2b6ATNCne8B3D251ncQ,manual_verified,"['electroclash', 'witch house']",2
+The Dare,2mqiqsaX4LzFnUP7PmHGAb,The Dare,1.0,electroclash,1,53,189566,https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb,clear_match,['electroclash'],1
+Ecco2k,6hG0VsXXlD10l60TqiIHIX,Ecco2k,1.0,cloud rap; hyperpop,2,60,384733,https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX,clear_match,"['cloud rap', 'hyperpop']",2
+BABii,30qGwXnygZNCzxjN7QsIR0,BABii,1.0,hyperpop,1,27,22954,https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0,clear_match,['hyperpop'],1
+2hollis,72NhFAGG5Pt91VbheJeEPG,2hollis,1.0,hyperpop; electroclash,2,67,724288,https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG,clear_match,"['hyperpop', 'electroclash']",2

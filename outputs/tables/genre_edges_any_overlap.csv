@@ -1,0 +1,98 @@
+source,target,source_spotify_id,target_spotify_id,source_genres,target_genres,shared_genres,shared_genres_count,jaccard_similarity
+Jane Remover,ear,2rLGlNI6htigNxx172qxLu,3bABCGLkFvjnNIKHvPVHDG,electroclash; hyperpop,electroclash,electroclash,1,0.5
+Jane Remover,Bassvictim,2rLGlNI6htigNxx172qxLu,7f8ydynRRnrJBqWxevKLcM,electroclash; hyperpop,electroclash; hyperpop; witch house,electroclash; hyperpop,2,0.6667
+Jane Remover,The Hellp,2rLGlNI6htigNxx172qxLu,5DslL3PUa3BcRlCCEP64A4,electroclash; hyperpop,electroclash; hyperpop; new rave,electroclash; hyperpop,2,0.6667
+Jane Remover,the sound chalk makes,2rLGlNI6htigNxx172qxLu,4uiFRdH1ESOicHwBuTbsY5,electroclash; hyperpop,electroclash; hyperpop,electroclash; hyperpop,2,1.0
+Jane Remover,Lucy Bedroque,2rLGlNI6htigNxx172qxLu,2I8H267eH5va9da4vGt38O,electroclash; hyperpop,cloud rap; hyperpop; rage rap,hyperpop,1,0.25
+Jane Remover,daine,2rLGlNI6htigNxx172qxLu,4lyCoxLN0aW7nJy5rec0tG,electroclash; hyperpop,hyperpop,hyperpop,1,0.5
+Jane Remover,underscores,2rLGlNI6htigNxx172qxLu,7HfUJxeVTgrvhk0eWHFzV7,electroclash; hyperpop,hyperpop,hyperpop,1,0.5
+Jane Remover,Bladee,2rLGlNI6htigNxx172qxLu,2xvtxDNInKDV4AvGmjw6d1,electroclash; hyperpop,cloud rap; hyperpop,hyperpop,1,0.3333
+Jane Remover,Oklou,2rLGlNI6htigNxx172qxLu,6fFcUOFcbjeIuEomuUthkw,electroclash; hyperpop,art pop; hyperpop,hyperpop,1,0.3333
+Jane Remover,A. G. Cook,2rLGlNI6htigNxx172qxLu,335TWGWGFan4vaacJzSiU8,electroclash; hyperpop,hyperpop,hyperpop,1,0.5
+Jane Remover,Nation,2rLGlNI6htigNxx172qxLu,03D2b6ATNCne8B3D251ncQ,electroclash; hyperpop,electroclash; witch house,electroclash,1,0.3333
+Jane Remover,The Dare,2rLGlNI6htigNxx172qxLu,2mqiqsaX4LzFnUP7PmHGAb,electroclash; hyperpop,electroclash,electroclash,1,0.5
+Jane Remover,Ecco2k,2rLGlNI6htigNxx172qxLu,6hG0VsXXlD10l60TqiIHIX,electroclash; hyperpop,cloud rap; hyperpop,hyperpop,1,0.3333
+Jane Remover,BABii,2rLGlNI6htigNxx172qxLu,30qGwXnygZNCzxjN7QsIR0,electroclash; hyperpop,hyperpop,hyperpop,1,0.5
+Jane Remover,2hollis,2rLGlNI6htigNxx172qxLu,72NhFAGG5Pt91VbheJeEPG,electroclash; hyperpop,electroclash; hyperpop,electroclash; hyperpop,2,1.0
+ear,Bassvictim,3bABCGLkFvjnNIKHvPVHDG,7f8ydynRRnrJBqWxevKLcM,electroclash,electroclash; hyperpop; witch house,electroclash,1,0.3333
+ear,The Hellp,3bABCGLkFvjnNIKHvPVHDG,5DslL3PUa3BcRlCCEP64A4,electroclash,electroclash; hyperpop; new rave,electroclash,1,0.3333
+ear,the sound chalk makes,3bABCGLkFvjnNIKHvPVHDG,4uiFRdH1ESOicHwBuTbsY5,electroclash,electroclash; hyperpop,electroclash,1,0.5
+ear,Nation,3bABCGLkFvjnNIKHvPVHDG,03D2b6ATNCne8B3D251ncQ,electroclash,electroclash; witch house,electroclash,1,0.5
+ear,The Dare,3bABCGLkFvjnNIKHvPVHDG,2mqiqsaX4LzFnUP7PmHGAb,electroclash,electroclash,electroclash,1,1.0
+ear,2hollis,3bABCGLkFvjnNIKHvPVHDG,72NhFAGG5Pt91VbheJeEPG,electroclash,electroclash; hyperpop,electroclash,1,0.5
+Chanel Beads,bar italia,3x11XrMEnyP18hv73pmKRL,6tYmTHApvspl6KAgTfHjAY,lo-fi indie,lo-fi indie,lo-fi indie,1,1.0
+Bassvictim,The Hellp,7f8ydynRRnrJBqWxevKLcM,5DslL3PUa3BcRlCCEP64A4,electroclash; hyperpop; witch house,electroclash; hyperpop; new rave,electroclash; hyperpop,2,0.5
+Bassvictim,the sound chalk makes,7f8ydynRRnrJBqWxevKLcM,4uiFRdH1ESOicHwBuTbsY5,electroclash; hyperpop; witch house,electroclash; hyperpop,electroclash; hyperpop,2,0.6667
+Bassvictim,Lucy Bedroque,7f8ydynRRnrJBqWxevKLcM,2I8H267eH5va9da4vGt38O,electroclash; hyperpop; witch house,cloud rap; hyperpop; rage rap,hyperpop,1,0.2
+Bassvictim,daine,7f8ydynRRnrJBqWxevKLcM,4lyCoxLN0aW7nJy5rec0tG,electroclash; hyperpop; witch house,hyperpop,hyperpop,1,0.3333
+Bassvictim,underscores,7f8ydynRRnrJBqWxevKLcM,7HfUJxeVTgrvhk0eWHFzV7,electroclash; hyperpop; witch house,hyperpop,hyperpop,1,0.3333
+Bassvictim,Bladee,7f8ydynRRnrJBqWxevKLcM,2xvtxDNInKDV4AvGmjw6d1,electroclash; hyperpop; witch house,cloud rap; hyperpop,hyperpop,1,0.25
+Bassvictim,Oklou,7f8ydynRRnrJBqWxevKLcM,6fFcUOFcbjeIuEomuUthkw,electroclash; hyperpop; witch house,art pop; hyperpop,hyperpop,1,0.25
+Bassvictim,A. G. Cook,7f8ydynRRnrJBqWxevKLcM,335TWGWGFan4vaacJzSiU8,electroclash; hyperpop; witch house,hyperpop,hyperpop,1,0.3333
+Bassvictim,Nation,7f8ydynRRnrJBqWxevKLcM,03D2b6ATNCne8B3D251ncQ,electroclash; hyperpop; witch house,electroclash; witch house,electroclash; witch house,2,0.6667
+Bassvictim,The Dare,7f8ydynRRnrJBqWxevKLcM,2mqiqsaX4LzFnUP7PmHGAb,electroclash; hyperpop; witch house,electroclash,electroclash,1,0.3333
+Bassvictim,Ecco2k,7f8ydynRRnrJBqWxevKLcM,6hG0VsXXlD10l60TqiIHIX,electroclash; hyperpop; witch house,cloud rap; hyperpop,hyperpop,1,0.25
+Bassvictim,BABii,7f8ydynRRnrJBqWxevKLcM,30qGwXnygZNCzxjN7QsIR0,electroclash; hyperpop; witch house,hyperpop,hyperpop,1,0.3333
+Bassvictim,2hollis,7f8ydynRRnrJBqWxevKLcM,72NhFAGG5Pt91VbheJeEPG,electroclash; hyperpop; witch house,electroclash; hyperpop,electroclash; hyperpop,2,0.6667
+The Hellp,the sound chalk makes,5DslL3PUa3BcRlCCEP64A4,4uiFRdH1ESOicHwBuTbsY5,electroclash; hyperpop; new rave,electroclash; hyperpop,electroclash; hyperpop,2,0.6667
+The Hellp,Lucy Bedroque,5DslL3PUa3BcRlCCEP64A4,2I8H267eH5va9da4vGt38O,electroclash; hyperpop; new rave,cloud rap; hyperpop; rage rap,hyperpop,1,0.2
+The Hellp,daine,5DslL3PUa3BcRlCCEP64A4,4lyCoxLN0aW7nJy5rec0tG,electroclash; hyperpop; new rave,hyperpop,hyperpop,1,0.3333
+The Hellp,underscores,5DslL3PUa3BcRlCCEP64A4,7HfUJxeVTgrvhk0eWHFzV7,electroclash; hyperpop; new rave,hyperpop,hyperpop,1,0.3333
+The Hellp,Bladee,5DslL3PUa3BcRlCCEP64A4,2xvtxDNInKDV4AvGmjw6d1,electroclash; hyperpop; new rave,cloud rap; hyperpop,hyperpop,1,0.25
+The Hellp,Oklou,5DslL3PUa3BcRlCCEP64A4,6fFcUOFcbjeIuEomuUthkw,electroclash; hyperpop; new rave,art pop; hyperpop,hyperpop,1,0.25
+The Hellp,A. G. Cook,5DslL3PUa3BcRlCCEP64A4,335TWGWGFan4vaacJzSiU8,electroclash; hyperpop; new rave,hyperpop,hyperpop,1,0.3333
+The Hellp,Nation,5DslL3PUa3BcRlCCEP64A4,03D2b6ATNCne8B3D251ncQ,electroclash; hyperpop; new rave,electroclash; witch house,electroclash,1,0.25
+The Hellp,The Dare,5DslL3PUa3BcRlCCEP64A4,2mqiqsaX4LzFnUP7PmHGAb,electroclash; hyperpop; new rave,electroclash,electroclash,1,0.3333
+The Hellp,Ecco2k,5DslL3PUa3BcRlCCEP64A4,6hG0VsXXlD10l60TqiIHIX,electroclash; hyperpop; new rave,cloud rap; hyperpop,hyperpop,1,0.25
+The Hellp,BABii,5DslL3PUa3BcRlCCEP64A4,30qGwXnygZNCzxjN7QsIR0,electroclash; hyperpop; new rave,hyperpop,hyperpop,1,0.3333
+The Hellp,2hollis,5DslL3PUa3BcRlCCEP64A4,72NhFAGG5Pt91VbheJeEPG,electroclash; hyperpop; new rave,electroclash; hyperpop,electroclash; hyperpop,2,0.6667
+the sound chalk makes,Lucy Bedroque,4uiFRdH1ESOicHwBuTbsY5,2I8H267eH5va9da4vGt38O,electroclash; hyperpop,cloud rap; hyperpop; rage rap,hyperpop,1,0.25
+the sound chalk makes,daine,4uiFRdH1ESOicHwBuTbsY5,4lyCoxLN0aW7nJy5rec0tG,electroclash; hyperpop,hyperpop,hyperpop,1,0.5
+the sound chalk makes,underscores,4uiFRdH1ESOicHwBuTbsY5,7HfUJxeVTgrvhk0eWHFzV7,electroclash; hyperpop,hyperpop,hyperpop,1,0.5
+the sound chalk makes,Bladee,4uiFRdH1ESOicHwBuTbsY5,2xvtxDNInKDV4AvGmjw6d1,electroclash; hyperpop,cloud rap; hyperpop,hyperpop,1,0.3333
+the sound chalk makes,Oklou,4uiFRdH1ESOicHwBuTbsY5,6fFcUOFcbjeIuEomuUthkw,electroclash; hyperpop,art pop; hyperpop,hyperpop,1,0.3333
+the sound chalk makes,A. G. Cook,4uiFRdH1ESOicHwBuTbsY5,335TWGWGFan4vaacJzSiU8,electroclash; hyperpop,hyperpop,hyperpop,1,0.5
+the sound chalk makes,Nation,4uiFRdH1ESOicHwBuTbsY5,03D2b6ATNCne8B3D251ncQ,electroclash; hyperpop,electroclash; witch house,electroclash,1,0.3333
+the sound chalk makes,The Dare,4uiFRdH1ESOicHwBuTbsY5,2mqiqsaX4LzFnUP7PmHGAb,electroclash; hyperpop,electroclash,electroclash,1,0.5
+the sound chalk makes,Ecco2k,4uiFRdH1ESOicHwBuTbsY5,6hG0VsXXlD10l60TqiIHIX,electroclash; hyperpop,cloud rap; hyperpop,hyperpop,1,0.3333
+the sound chalk makes,BABii,4uiFRdH1ESOicHwBuTbsY5,30qGwXnygZNCzxjN7QsIR0,electroclash; hyperpop,hyperpop,hyperpop,1,0.5
+the sound chalk makes,2hollis,4uiFRdH1ESOicHwBuTbsY5,72NhFAGG5Pt91VbheJeEPG,electroclash; hyperpop,electroclash; hyperpop,electroclash; hyperpop,2,1.0
+Lucy Bedroque,daine,2I8H267eH5va9da4vGt38O,4lyCoxLN0aW7nJy5rec0tG,cloud rap; hyperpop; rage rap,hyperpop,hyperpop,1,0.3333
+Lucy Bedroque,underscores,2I8H267eH5va9da4vGt38O,7HfUJxeVTgrvhk0eWHFzV7,cloud rap; hyperpop; rage rap,hyperpop,hyperpop,1,0.3333
+Lucy Bedroque,Bladee,2I8H267eH5va9da4vGt38O,2xvtxDNInKDV4AvGmjw6d1,cloud rap; hyperpop; rage rap,cloud rap; hyperpop,cloud rap; hyperpop,2,0.6667
+Lucy Bedroque,Oklou,2I8H267eH5va9da4vGt38O,6fFcUOFcbjeIuEomuUthkw,cloud rap; hyperpop; rage rap,art pop; hyperpop,hyperpop,1,0.25
+Lucy Bedroque,A. G. Cook,2I8H267eH5va9da4vGt38O,335TWGWGFan4vaacJzSiU8,cloud rap; hyperpop; rage rap,hyperpop,hyperpop,1,0.3333
+Lucy Bedroque,Ecco2k,2I8H267eH5va9da4vGt38O,6hG0VsXXlD10l60TqiIHIX,cloud rap; hyperpop; rage rap,cloud rap; hyperpop,cloud rap; hyperpop,2,0.6667
+Lucy Bedroque,BABii,2I8H267eH5va9da4vGt38O,30qGwXnygZNCzxjN7QsIR0,cloud rap; hyperpop; rage rap,hyperpop,hyperpop,1,0.3333
+Lucy Bedroque,2hollis,2I8H267eH5va9da4vGt38O,72NhFAGG5Pt91VbheJeEPG,cloud rap; hyperpop; rage rap,electroclash; hyperpop,hyperpop,1,0.25
+daine,underscores,4lyCoxLN0aW7nJy5rec0tG,7HfUJxeVTgrvhk0eWHFzV7,hyperpop,hyperpop,hyperpop,1,1.0
+daine,Bladee,4lyCoxLN0aW7nJy5rec0tG,2xvtxDNInKDV4AvGmjw6d1,hyperpop,cloud rap; hyperpop,hyperpop,1,0.5
+daine,Oklou,4lyCoxLN0aW7nJy5rec0tG,6fFcUOFcbjeIuEomuUthkw,hyperpop,art pop; hyperpop,hyperpop,1,0.5
+daine,A. G. Cook,4lyCoxLN0aW7nJy5rec0tG,335TWGWGFan4vaacJzSiU8,hyperpop,hyperpop,hyperpop,1,1.0
+daine,Ecco2k,4lyCoxLN0aW7nJy5rec0tG,6hG0VsXXlD10l60TqiIHIX,hyperpop,cloud rap; hyperpop,hyperpop,1,0.5
+daine,BABii,4lyCoxLN0aW7nJy5rec0tG,30qGwXnygZNCzxjN7QsIR0,hyperpop,hyperpop,hyperpop,1,1.0
+daine,2hollis,4lyCoxLN0aW7nJy5rec0tG,72NhFAGG5Pt91VbheJeEPG,hyperpop,electroclash; hyperpop,hyperpop,1,0.5
+underscores,Bladee,7HfUJxeVTgrvhk0eWHFzV7,2xvtxDNInKDV4AvGmjw6d1,hyperpop,cloud rap; hyperpop,hyperpop,1,0.5
+underscores,Oklou,7HfUJxeVTgrvhk0eWHFzV7,6fFcUOFcbjeIuEomuUthkw,hyperpop,art pop; hyperpop,hyperpop,1,0.5
+underscores,A. G. Cook,7HfUJxeVTgrvhk0eWHFzV7,335TWGWGFan4vaacJzSiU8,hyperpop,hyperpop,hyperpop,1,1.0
+underscores,Ecco2k,7HfUJxeVTgrvhk0eWHFzV7,6hG0VsXXlD10l60TqiIHIX,hyperpop,cloud rap; hyperpop,hyperpop,1,0.5
+underscores,BABii,7HfUJxeVTgrvhk0eWHFzV7,30qGwXnygZNCzxjN7QsIR0,hyperpop,hyperpop,hyperpop,1,1.0
+underscores,2hollis,7HfUJxeVTgrvhk0eWHFzV7,72NhFAGG5Pt91VbheJeEPG,hyperpop,electroclash; hyperpop,hyperpop,1,0.5
+Bladee,Oklou,2xvtxDNInKDV4AvGmjw6d1,6fFcUOFcbjeIuEomuUthkw,cloud rap; hyperpop,art pop; hyperpop,hyperpop,1,0.3333
+Bladee,A. G. Cook,2xvtxDNInKDV4AvGmjw6d1,335TWGWGFan4vaacJzSiU8,cloud rap; hyperpop,hyperpop,hyperpop,1,0.5
+Bladee,Ecco2k,2xvtxDNInKDV4AvGmjw6d1,6hG0VsXXlD10l60TqiIHIX,cloud rap; hyperpop,cloud rap; hyperpop,cloud rap; hyperpop,2,1.0
+Bladee,BABii,2xvtxDNInKDV4AvGmjw6d1,30qGwXnygZNCzxjN7QsIR0,cloud rap; hyperpop,hyperpop,hyperpop,1,0.5
+Bladee,2hollis,2xvtxDNInKDV4AvGmjw6d1,72NhFAGG5Pt91VbheJeEPG,cloud rap; hyperpop,electroclash; hyperpop,hyperpop,1,0.3333
+Oklou,A. G. Cook,6fFcUOFcbjeIuEomuUthkw,335TWGWGFan4vaacJzSiU8,art pop; hyperpop,hyperpop,hyperpop,1,0.5
+Oklou,Ecco2k,6fFcUOFcbjeIuEomuUthkw,6hG0VsXXlD10l60TqiIHIX,art pop; hyperpop,cloud rap; hyperpop,hyperpop,1,0.3333
+Oklou,BABii,6fFcUOFcbjeIuEomuUthkw,30qGwXnygZNCzxjN7QsIR0,art pop; hyperpop,hyperpop,hyperpop,1,0.5
+Oklou,2hollis,6fFcUOFcbjeIuEomuUthkw,72NhFAGG5Pt91VbheJeEPG,art pop; hyperpop,electroclash; hyperpop,hyperpop,1,0.3333
+A. G. Cook,Ecco2k,335TWGWGFan4vaacJzSiU8,6hG0VsXXlD10l60TqiIHIX,hyperpop,cloud rap; hyperpop,hyperpop,1,0.5
+A. G. Cook,BABii,335TWGWGFan4vaacJzSiU8,30qGwXnygZNCzxjN7QsIR0,hyperpop,hyperpop,hyperpop,1,1.0
+A. G. Cook,2hollis,335TWGWGFan4vaacJzSiU8,72NhFAGG5Pt91VbheJeEPG,hyperpop,electroclash; hyperpop,hyperpop,1,0.5
+Nation,The Dare,03D2b6ATNCne8B3D251ncQ,2mqiqsaX4LzFnUP7PmHGAb,electroclash; witch house,electroclash,electroclash,1,0.5
+Nation,2hollis,03D2b6ATNCne8B3D251ncQ,72NhFAGG5Pt91VbheJeEPG,electroclash; witch house,electroclash; hyperpop,electroclash,1,0.3333
+The Dare,2hollis,2mqiqsaX4LzFnUP7PmHGAb,72NhFAGG5Pt91VbheJeEPG,electroclash,electroclash; hyperpop,electroclash,1,0.5
+Ecco2k,BABii,6hG0VsXXlD10l60TqiIHIX,30qGwXnygZNCzxjN7QsIR0,cloud rap; hyperpop,hyperpop,hyperpop,1,0.5
+Ecco2k,2hollis,6hG0VsXXlD10l60TqiIHIX,72NhFAGG5Pt91VbheJeEPG,cloud rap; hyperpop,electroclash; hyperpop,hyperpop,1,0.3333
+BABii,2hollis,30qGwXnygZNCzxjN7QsIR0,72NhFAGG5Pt91VbheJeEPG,hyperpop,electroclash; hyperpop,hyperpop,1,0.5

@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="evidence_tracks" attr.type="string" />
+  <key id="d5" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d4" for="node" attr.name="genres" attr.type="string" />
+  <key id="d3" for="node" attr.name="followers" attr.type="long" />
+  <key id="d2" for="node" attr.name="popularity" attr.type="long" />
+  <key id="d1" for="node" attr.name="spotify_name" attr.type="string" />
+  <key id="d0" for="node" attr.name="spotify_id" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="Jane Remover">
+      <data key="d0">2rLGlNI6htigNxx172qxLu</data>
+      <data key="d1">Jane Remover</data>
+      <data key="d2">61</data>
+      <data key="d3">259935</data>
+      <data key="d4">hyperpop; electroclash</data>
+    </node>
+    <node id="ear">
+      <data key="d0">3bABCGLkFvjnNIKHvPVHDG</data>
+      <data key="d1">ear</data>
+      <data key="d2">52</data>
+      <data key="d3">60877</data>
+      <data key="d4">electroclash</data>
+    </node>
+    <node id="Mk.gee">
+      <data key="d0">7tr9pbgNEKtG0GQTKe08Tz</data>
+      <data key="d1">Mk.gee</data>
+      <data key="d2">61</data>
+      <data key="d3">519649</data>
+      <data key="d4" />
+    </node>
+    <node id="ML Buch">
+      <data key="d0">3NsSv8HchEwfa7bGkjb4ZC</data>
+      <data key="d1">ML Buch</data>
+      <data key="d2">42</data>
+      <data key="d3">62421</data>
+      <data key="d4" />
+    </node>
+    <node id="Chanel Beads">
+      <data key="d0">3x11XrMEnyP18hv73pmKRL</data>
+      <data key="d1">Chanel Beads</data>
+      <data key="d2">49</data>
+      <data key="d3">63494</data>
+      <data key="d4">lo-fi indie</data>
+    </node>
+    <node id="Sophia Stel">
+      <data key="d0">18w9tq3c2x11niEFNYqeex</data>
+      <data key="d1">Sophia Stel</data>
+      <data key="d2">50</data>
+      <data key="d3">34147</data>
+      <data key="d4" />
+    </node>
+    <node id="Bassvictim">
+      <data key="d0">7f8ydynRRnrJBqWxevKLcM</data>
+      <data key="d1">Bassvictim</data>
+      <data key="d2">57</data>
+      <data key="d3">131554</data>
+      <data key="d4">electroclash; hyperpop; witch house</data>
+    </node>
+    <node id="The Hellp">
+      <data key="d0">5DslL3PUa3BcRlCCEP64A4</data>
+      <data key="d1">The Hellp</data>
+      <data key="d2">56</data>
+      <data key="d3">137377</data>
+      <data key="d4">electroclash; new rave; hyperpop</data>
+    </node>
+    <node id="the sound chalk makes">
+      <data key="d0">4uiFRdH1ESOicHwBuTbsY5</data>
+      <data key="d1">the sound chalk makes</data>
+      <data key="d2">33</data>
+      <data key="d3">5821</data>
+      <data key="d4">hyperpop; electroclash</data>
+    </node>
+    <node id="Lucy Bedroque">
+      <data key="d0">2I8H267eH5va9da4vGt38O</data>
+      <data key="d1">Lucy Bedroque</data>
+      <data key="d2">63</data>
+      <data key="d3">193075</data>
+      <data key="d4">hyperpop; rage rap; cloud rap</data>
+    </node>
+    <node id="Horse Vision">
+      <data key="d0">28gAkTGnjn8QZllb4EU4OM</data>
+      <data key="d1">Horse Vision</data>
+      <data key="d2">35</data>
+      <data key="d3">9621</data>
+      <data key="d4" />
+    </node>
+    <node id="Mother Soki">
+      <data key="d0">08W3G3y83p0TLqqjiyKXBk</data>
+      <data key="d1">Mother Soki</data>
+      <data key="d2">50</data>
+      <data key="d3">36723</data>
+      <data key="d4" />
+    </node>
+    <node id="bar italia">
+      <data key="d0">6tYmTHApvspl6KAgTfHjAY</data>
+      <data key="d1">bar italia</data>
+      <data key="d2">42</data>
+      <data key="d3">96608</data>
+      <data key="d4">lo-fi indie</data>
+    </node>
+    <node id="daine">
+      <data key="d0">4lyCoxLN0aW7nJy5rec0tG</data>
+      <data key="d1">daine</data>
+      <data key="d2">46</data>
+      <data key="d3">38429</data>
+      <data key="d4">hyperpop</data>
+    </node>
+    <node id="james K">
+      <data key="d0">25BObiRSDCMwVrBGIVaLIf</data>
+      <data key="d1">james K</data>
+      <data key="d2">47</data>
+      <data key="d3">46283</data>
+      <data key="d4" />
+    </node>
+    <node id="underscores">
+      <data key="d0">7HfUJxeVTgrvhk0eWHFzV7</data>
+      <data key="d1">underscores</data>
+      <data key="d2">63</data>
+      <data key="d3">220019</data>
+      <data key="d4">hyperpop</data>
+    </node>
+    <node id="Elias Rønnenfelt">
+      <data key="d0">1sMYEFib6APIW3JjkY8pYS</data>
+      <data key="d1">Elias Rønnenfelt</data>
+      <data key="d2">54</data>
+      <data key="d3">37527</data>
+      <data key="d4" />
+    </node>
+    <node id="Bladee">
+      <data key="d0">2xvtxDNInKDV4AvGmjw6d1</data>
+      <data key="d1">Bladee</data>
+      <data key="d2">68</data>
+      <data key="d3">692266</data>
+      <data key="d4">cloud rap; hyperpop</data>
+    </node>
+    <node id="mark william lewis">
+      <data key="d0">2r5elgyPQ19vDG3xSQn39k</data>
+      <data key="d1">mark william lewis</data>
+      <data key="d2">44</data>
+      <data key="d3">40569</data>
+      <data key="d4" />
+    </node>
+    <node id="Nourished by Time">
+      <data key="d0">7zNkqI6qRr0OJ4XO1Pw29g</data>
+      <data key="d1">Nourished by Time</data>
+      <data key="d2">46</data>
+      <data key="d3">66093</data>
+      <data key="d4">indie electronic</data>
+    </node>
+    <node id="Alex G">
+      <data key="d0">6lcwlkAjBPSKnFBZjjZFJs</data>
+      <data key="d1">Alex G</data>
+      <data key="d2">75</data>
+      <data key="d3">4093146</data>
+      <data key="d4" />
+    </node>
+    <node id="Oklou">
+      <data key="d0">6fFcUOFcbjeIuEomuUthkw</data>
+      <data key="d1">Oklou</data>
+      <data key="d2">61</data>
+      <data key="d3">300435</data>
+      <data key="d4">art pop; hyperpop</data>
+    </node>
+    <node id="Dean Blunt">
+      <data key="d0">5CFSYjc0PAiQvndFjafabk</data>
+      <data key="d1">Dean Blunt</data>
+      <data key="d2">67</data>
+      <data key="d3">595714</data>
+      <data key="d4" />
+    </node>
+    <node id="King Krule">
+      <data key="d0">4wyNyxs74Ux8UIDopNjIai</data>
+      <data key="d1">King Krule</data>
+      <data key="d2">60</data>
+      <data key="d3">1026903</data>
+      <data key="d4" />
+    </node>
+    <node id="A. G. Cook">
+      <data key="d0">335TWGWGFan4vaacJzSiU8</data>
+      <data key="d1">A. G. Cook</data>
+      <data key="d2">54</data>
+      <data key="d3">236059</data>
+      <data key="d4">hyperpop</data>
+    </node>
+    <node id="Nation">
+      <data key="d0">03D2b6ATNCne8B3D251ncQ</data>
+      <data key="d1">Nation</data>
+      <data key="d2">31</data>
+      <data key="d3">14561</data>
+      <data key="d4">electroclash; witch house</data>
+    </node>
+    <node id="The Dare">
+      <data key="d0">2mqiqsaX4LzFnUP7PmHGAb</data>
+      <data key="d1">The Dare</data>
+      <data key="d2">53</data>
+      <data key="d3">189566</data>
+      <data key="d4">electroclash</data>
+    </node>
+    <node id="Ecco2k">
+      <data key="d0">6hG0VsXXlD10l60TqiIHIX</data>
+      <data key="d1">Ecco2k</data>
+      <data key="d2">60</data>
+      <data key="d3">384733</data>
+      <data key="d4">cloud rap; hyperpop</data>
+    </node>
+    <node id="BABii">
+      <data key="d0">30qGwXnygZNCzxjN7QsIR0</data>
+      <data key="d1">BABii</data>
+      <data key="d2">27</data>
+      <data key="d3">22954</data>
+      <data key="d4">hyperpop</data>
+    </node>
+    <node id="2hollis">
+      <data key="d0">72NhFAGG5Pt91VbheJeEPG</data>
+      <data key="d1">2hollis</data>
+      <data key="d2">67</data>
+      <data key="d3">724288</data>
+      <data key="d4">hyperpop; electroclash</data>
+    </node>
+    <edge source="Jane Remover" target="underscores">
+      <data key="d5">2</data>
+      <data key="d6">Uncanny long arms (with Jane Remover); Uncanny long arms (with Jane Remover)</data>
+    </edge>
+    <edge source="Jane Remover" target="Lucy Bedroque">
+      <data key="d5">1</data>
+      <data key="d6">Audiostalker</data>
+    </edge>
+    <edge source="daine" target="underscores">
+      <data key="d5">1</data>
+      <data key="d6">It's You - underscores' "It’s U" Remix</data>
+    </edge>
+    <edge source="underscores" target="Oklou">
+      <data key="d5">12</data>
+      <data key="d6">harvest sky - Danny L Harle C Mix; harvest sky - Milkfish Remix; harvest sky; harvest sky - Milkfish Remix; harvest sky - Danny L Harle C Mix; harvest sky; harvest sky; harvest sky; harvest sky; harvest sky</data>
+    </edge>
+    <edge source="Elias Rønnenfelt" target="Dean Blunt">
+      <data key="d5">10</data>
+      <data key="d6">1; 2; 3; 4; 5; 6; 7; tears on his rings and chains; repeat offenders; Smile Please</data>
+    </edge>
+    <edge source="Elias Rønnenfelt" target="The Dare">
+      <data key="d5">1</data>
+      <data key="d6">Close - The Dare Remix</data>
+    </edge>
+    <edge source="Bladee" target="Ecco2k">
+      <data key="d5">43</data>
+      <data key="d6">COLD VISIONS (OUTRO 2); DiSASTER PRELUDE; The Flag is Raised; 5 Star Crest (4 Vattenrum); White Meadow; Faust; Yeses (Red Cross); Desire is a Trap; Chaos Follows; Girls Just Want to Have Fun</data>
+    </edge>
+    <edge source="Bladee" target="Oklou">
+      <data key="d5">9</data>
+      <data key="d6">take me by the hand; take me by the hand; take me by the hand; take me by the hand; Rainbow - make it double Oklou Mix; take me by the hand - Aaron Hibell remix; take me by the hand; Rainbow - make it double Oklou Mix; take me by the hand - Aaron Hibell remix</data>
+    </edge>
+    <edge source="Bladee" target="A. G. Cook">
+      <data key="d5">2</data>
+      <data key="d6">Rewind featuring bladee; Rewind featuring bladee</data>
+    </edge>
+    <edge source="Bladee" target="Nation">
+      <data key="d5">1</data>
+      <data key="d6">Every Summer</data>
+    </edge>
+    <edge source="Oklou" target="A. G. Cook">
+      <data key="d5">4</data>
+      <data key="d6">fall - A. G. Cook Remix; galore - A. G. Cook Remix; Being Harsh; Being Harsh</data>
+    </edge>
+    <edge source="Nation" target="Ecco2k">
+      <data key="d5">3</data>
+      <data key="d6">Nobody's Fault; Touch; Ça Va</data>
+    </edge>
+  </graph>
+</graphml>
